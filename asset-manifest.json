@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MyAlgo/static/css/main.69e28b7a.css",
-    "main.js": "/MyAlgo/static/js/main.01dac256.js",
+    "main.js": "/MyAlgo/static/js/main.4fc3f51a.js",
     "static/js/453.086af677.chunk.js": "/MyAlgo/static/js/453.086af677.chunk.js",
     "static/media/logo512-bg-remove.png": "/MyAlgo/static/media/logo512-bg-remove.7e767a1cad97ff72fb24.png",
     "index.html": "/MyAlgo/index.html",
     "main.69e28b7a.css.map": "/MyAlgo/static/css/main.69e28b7a.css.map",
-    "main.01dac256.js.map": "/MyAlgo/static/js/main.01dac256.js.map",
+    "main.4fc3f51a.js.map": "/MyAlgo/static/js/main.4fc3f51a.js.map",
     "453.086af677.chunk.js.map": "/MyAlgo/static/js/453.086af677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69e28b7a.css",
-    "static/js/main.01dac256.js"
+    "static/js/main.4fc3f51a.js"
   ]
 }
